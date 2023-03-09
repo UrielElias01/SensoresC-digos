@@ -4,8 +4,8 @@ const int stepsPerRevolution = 2048;  // change this to fit the number of steps 
 const int knockSensor = 14;
 
 // ULN2003 Motor Driver Pins
-#define IN1 19
-#define IN2 18
+#define IN1 15
+#define IN2 2
 #define IN3 5
 #define IN4 4
 
